@@ -5,4 +5,4 @@ This blog is not only a testament to my commitment to personal growth and contin
 
 From sleek navigation menus to interactive sliders, responsive layouts to animated effects, this blog will cover a wide range of web elements and design concepts. By the end of the 50 Days of Code challenge, you'll have at your disposal a comprehensive collection of building blocks that can be easily combined to create stunning websites.
 
-LINK - https://64c5342bf252627fb61c1874--vocal-starlight-0906b4.netlify.app/
+LINK - https://chimerical-gingersnap-f3d87a.netlify.app/
